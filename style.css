@@ -12,3 +12,31 @@ h1{
 a{
     color:aqua;
 }
+
+table, th, td{
+    outline: 1px solid #ffffff;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td{
+    padding: 1%;
+    min-width: fit-content;
+}
+/*
+tr td:last-child{
+    width: 1%;
+    white-space: nowrap;
+}
+
+.function-name{
+    width: 20%;
+}
+
+.variable-name{
+    width: 20%;
+}
+*/
