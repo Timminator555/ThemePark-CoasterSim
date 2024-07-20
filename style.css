@@ -26,17 +26,3 @@ td{
     padding: 1%;
     min-width: fit-content;
 }
-/*
-tr td:last-child{
-    width: 1%;
-    white-space: nowrap;
-}
-
-.function-name{
-    width: 20%;
-}
-
-.variable-name{
-    width: 20%;
-}
-*/
